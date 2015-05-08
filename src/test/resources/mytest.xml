@@ -1,7 +1,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="AllTests" configfailurepolicy="continue" verbose="1" parallel="methods" thread-count="1">
-    <parameter name="id" value="anthonychung707@yahoo.com" />
-    <parameter name="password" value="Pollytest12" />
+    <parameter name="id" value="<yours here>" />
+    <parameter name="password" value="<yours here>" />
     <test name="MyTests">
         <classes>
             <class name="com.test.MyTest"/>

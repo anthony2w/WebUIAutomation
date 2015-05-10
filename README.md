@@ -11,4 +11,4 @@ Steps to run the project on Windows 7:
 5) Install and configure latest version of Maven if not already installed.
 6) Install Java SDK 8
 7) Open command prompt, change project root directory where the POM file resides
-8) Enter command "mvn clean install". Hit Enter.
+8) Enter command "mvn clean install -Pmytest". Hit Enter.
